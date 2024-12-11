@@ -1,0 +1,11 @@
+Results for Feature: Pendapatan (File: bootstrap_Pendapatan.xlsx)
+Accuracy: 0.44
+
+Detailed Classification Metrics:
++-----------+------------+------------+------------+--------------+
+|   Metric  | Kandidat 0 | Kandidat 1 | Kandidat 2 | Weighted Avg |
++-----------+------------+------------+------------+--------------+
+| Precision |    1.00    |    0.49    |    0.41    |     0.54     |
+|   Recall  |    0.00    |    0.34    |    0.72    |     0.44     |
+|  F1-score |    0.00    |    0.40    |    0.53    |     0.39     |
++-----------+------------+------------+------------+--------------+

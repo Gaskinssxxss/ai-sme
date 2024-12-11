@@ -1,0 +1,11 @@
+Results for Feature: Status Kawin (File: bootstrap_Status Kawin.xlsx)
+Accuracy: 0.22
+
+Detailed Classification Metrics:
++-----------+------------+------------+------------+--------------+
+|   Metric  | Kandidat 0 | Kandidat 1 | Kandidat 2 | Weighted Avg |
++-----------+------------+------------+------------+--------------+
+| Precision |    0.17    |    0.44    |    1.00    |     0.62     |
+|   Recall  |    0.82    |    0.20    |    0.00    |     0.22     |
+|  F1-score |    0.28    |    0.27    |    0.00    |     0.16     |
++-----------+------------+------------+------------+--------------+

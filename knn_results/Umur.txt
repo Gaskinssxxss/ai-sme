@@ -1,0 +1,11 @@
+Results for Feature: Umur (File: bootstrap_Umur.xlsx)
+Accuracy: 0.40
+
+Detailed Classification Metrics:
++-----------+------------+------------+------------+--------------+
+|   Metric  | Kandidat 0 | Kandidat 1 | Kandidat 2 | Weighted Avg |
++-----------+------------+------------+------------+--------------+
+| Precision |    1.00    |    0.40    |    0.41    |     0.50     |
+|   Recall  |    0.00    |    0.41    |    0.57    |     0.40     |
+|  F1-score |    0.00    |    0.41    |    0.47    |     0.37     |
++-----------+------------+------------+------------+--------------+

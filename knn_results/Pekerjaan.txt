@@ -1,0 +1,11 @@
+Results for Feature: Pekerjaan (File: bootstrap_Pekerjaan.xlsx)
+Accuracy: 0.39
+
+Detailed Classification Metrics:
++-----------+------------+------------+------------+--------------+
+|   Metric  | Kandidat 0 | Kandidat 1 | Kandidat 2 | Weighted Avg |
++-----------+------------+------------+------------+--------------+
+| Precision |    0.27    |    0.46    |    0.40    |     0.40     |
+|   Recall  |    0.26    |    0.30    |    0.55    |     0.39     |
+|  F1-score |    0.26    |    0.36    |    0.46    |     0.39     |
++-----------+------------+------------+------------+--------------+
